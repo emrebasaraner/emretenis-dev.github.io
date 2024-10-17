@@ -1,0 +1,12 @@
+
+body {
+    background-color:blue;
+}
+div{
+    background-color:rgb(113, 252, 0);
+}
+div a {
+    color:red;
+    padding: 10px;
+    font-size: 24px;
+}
